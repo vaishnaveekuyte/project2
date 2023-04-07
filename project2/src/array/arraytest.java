@@ -6,7 +6,7 @@ public class arraytest {
 	
 	public static void main(String[] args){
 
-	int arr[]={10,20,30,40,50};
+	int arr[]={10,20,30,40,50};//multiple array
 	arr[0]=10;
 	arr[1]=20;
 	arr[2]=30;
